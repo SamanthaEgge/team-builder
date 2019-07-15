@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TeamList = () => {
+const TeamList = (props) => {
     return(
         <div>
             <p>test</p>
